@@ -1,5 +1,5 @@
 # HexadecimalServer
-A Java application that implements a server, which responds to requests with a random hexadecimal number of length 32.
+A Java application that implements a server which responds to requests with a random hexadecimal number of length 32.
 
 ## Running the Application
 * Open a command line in the ***dist*** folder of the repository.
